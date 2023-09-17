@@ -1,0 +1,5 @@
+Template: no tag was found at: X = -0.108, Y = -0.405, Phi = -1.569
+Template: "template2.jpg" was found at: X = -0.116, Y = 0.995, Phi = -0.009
+Template: "template3.jpg" was found at: X = -1.429, Y = 1.797, Phi = -0.606
+Template: "template1.jpg" was found at: X = 1.889, Y = 2.043, Phi = -1.575
+Template: "template3.jpg" was found at: X = 2.07, Y = -1.25, Phi = 0.791
